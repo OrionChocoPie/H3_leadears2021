@@ -1,4 +1,5 @@
 *.csv
 *.xlsx
+.ipynb_checkpoints
 /data
 /venv
