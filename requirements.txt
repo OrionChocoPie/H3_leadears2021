@@ -1,0 +1,9 @@
+numpy
+pandas
+folium
+geojson
+openrouteservice
+beautifulsoup4
+geopandas
+requests
+branca
